@@ -36,7 +36,7 @@ const Projects = () => {
                     <h1 className='mt-4 text-xl sm:text-2xl font-semibold text-white'>
                         SJF Non-Preemptive Scheduling
                     </h1>
-                    <p className="pt-2 font-medium text-white/80">Web App, Algorithms</p>
+                    <p className="pt-2 font-medium text-white/80">CPU Scheduling</p>
                     <p className="pt-2 font-medium text-white/80">
                         If you want to see it , {' '}
                         <a
